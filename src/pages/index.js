@@ -25,12 +25,12 @@ const IndexPage = () => (
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCl6o9hyV6TEhE2ldyUErumM0AlRkyt14Rkooui419s741UQ/viewform" target="_blank">-報名按這 Click here for Online Application</a>
 
         <h2>Rayson at Musicians Institute</h2>
-            <img src="../../static/images/rayson_mi.jpg" width="500"/>
+            <img src="/images/rayson_mi.jpg" alt="rayson" width="500"/>
          <div>
-            <img src="../../static/images/rs_comment_1.jpg" width="1000"/>
+            <img src="/images/rs_comment_1.jpg" alt="Rockschool Mention" width="1000"/>
         </div>
          <div>
-            <img src="../../static/images/rs_comment_2.jpg" width="1000"/>
+            <img src="/images/rs_comment_2.jpg" alt="Rockschool Mention" width="1000"/>
         </div>
 
       </div>
