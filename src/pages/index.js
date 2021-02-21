@@ -10,7 +10,7 @@ const IndexPage = () => (
   <Layout>
       <div >
         <SEO title="Home" />
-        <h1>HKGuitarTutor.com official Website </h1>
+        <h1 class='left'>HKGuitarTutor.com official Website </h1>
         <p>流行電結他／Fingerstyle結他課程 - By Rayson Kong</p>
         
         <p>email: hongkongguitartutor@gmail.com</p>

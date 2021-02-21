@@ -4,3 +4,7 @@ p {
 .last {
     margin-bottom: 30px;
 }
+
+.left {
+    margin-left: 0;
+}
