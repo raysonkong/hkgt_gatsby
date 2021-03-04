@@ -1,7 +1,6 @@
 import { Link } from "gatsby"
 import React from 'react';
 import Layout from "../components/layout";
-import './student_demo.css'
 
 const studentDemo = () => {
     return (
