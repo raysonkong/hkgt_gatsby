@@ -6,8 +6,8 @@ const enquiry = () => {
     return (
         <Layout>
             <h1>About Page </h1>
-            <p>Rayson has been playing for 20 years</p>
             <p>Email</p>
+            <p>hongkongguitartutor@gmail.com</p>
 
             <Link to="/">Home</Link> <br />
         </Layout>
