@@ -5,7 +5,7 @@ import Layout from "../components/layout";
 const studentDemo = () => {
     return (
         <Layout>
-            <h1>Grade 8 學生示範</h1>
+            <h1>Grade 8 學生示範 Student Demo</h1>
 
             <div class="g8">
                 <div>
