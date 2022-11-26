@@ -18,12 +18,12 @@ const Menu = () => {
           }}
         >
             <li><Link to='/'>Home</Link></li>
-            <li><Link to='/apply'>常規課程/報名</Link></li>
+            <li><Link to='/apply'>報名</Link></li>
             <li><Link to='/student_demo'>Student Demo</Link></li>
             <li><Link to='/rayson_demo'>Rayson Demo</Link></li>
             <li><Link to='/rs_comment'>Rockschool Comment</Link></li>
-            <li><Link to='/free_download'>Free Tab Download</Link></li>
-            <li><Link to='/rockschool_tab'>RockSchoo Tab Download</Link></li>
+            <li><Link to='/free_download'>Free Tab</Link></li>
+            <li><Link to='/rockschool_tab'>Buy Tab</Link></li>
             <li><Link to='/enquiry'>Enquiry</Link></li>
 
         </ul>
